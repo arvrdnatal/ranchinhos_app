@@ -1,16 +1,13 @@
-# ranchinhos_app
-
+# Ranchinhos App
 Um app para te ajudar nas suas compras.
 
-## Getting Started
+## Ideia Proposta
+Um aplicativo para ajudar na organização das suas compras. Precisa verificar o que falta no armário? O Ranchinhos te dá uma mãozinha!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### O que falta fazer?
+- [ ] Cadastro de usuário
+- [ ] Login de usuário
+- [ ] Perfil do usuário
+- [ ] Lista de produtos
+- [ ] Cadastro de produtos
+- [ ] Agrupamento por casas
